@@ -5,6 +5,10 @@ HtmlPreviewView       = require './atom-html-preview-view'
 
 module.exports =
   config:
+    includeStylesheet:
+      type: 'string'
+      description: 'Link to CSS file to include in header'
+      default: ''
     triggerOnSave:
       type: 'boolean'
       description: 'Watch will trigger on save.'

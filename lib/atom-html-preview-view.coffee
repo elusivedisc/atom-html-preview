@@ -226,6 +226,8 @@ class AtomHtmlPreviewView extends ScrollView
     # as the src of an webview
 
     baseText = "<base href=\"" + @getPath() + "\">"
+    if atom.config.get("atom-html-preview.includeStylesheet") != ''
+      baseText+= '\n<link rel="stylesheet" type="text/css" href=' + atom.config.get("atom-html-preview.includeStylesheet") + '>'
 
     matchedHead = /<head[^>]*>/i.exec(editorText)
 
