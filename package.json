@@ -5,6 +5,8 @@
   "version": "0.0.0",
   "description": "A modification of Harmsk's preview tool for Atom Editor.",
   "repository": {
+    "name": "elusive-html-preview",
+    "author": "elusivedisc",
     "type": "git",
     "url": "https://github.com/elusivedisc/elusive-html-preview/"
   },
