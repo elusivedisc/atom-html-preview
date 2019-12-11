@@ -1,11 +1,6 @@
-# Atom HTML Preview
+# Elusive HTML Preview
 
-A live preview tool for Atom Editor.
-
-Install:
-```bash
-apm install atom-html-preview
-```
+A modification of [Harmsk's preview tool for Atom Editor](https://github.com/harmsk/atom-html-preview) to include a stylesheet in the settings.
 
 Toggle HTML Preview:
 
