@@ -1,11 +1,11 @@
 {
-  "name": "atom-html-preview",
+  "name": "elusive-html-preview",
   "main": "./lib/atom-html-preview",
   "version": "0.2.6",
-  "description": "A live preview tool for Atom Editor.",
+  "description": "A modification of Harmsk's preview tool for Atom Editor.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harmsk/atom-html-preview"
+    "url": "https://github.com/elusivedisc/elusive-html-preview/"
   },
   "license": "MIT",
   "engines": {
@@ -17,13 +17,13 @@
   "activationHooks": [
     "language-html:grammar-used"
   ],
-  "readme": "# Atom HTML Preview\n\nA live preview tool for Atom Editor.\n\nInstall:\n```bash\napm install atom-html-preview\n```\n\nToogle HTML Preview:\n\nPress `CTRL-P` in editor to open Preview.",
+  "readme": "# Atom HTML Preview\n\nA live preview tool for Atom Editor.\n```\n\nToggle HTML Preview:\n\nPress `CTRL-P` in editor to open Preview.",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/harmsk/atom-html-preview/issues"
   },
-  "homepage": "https://github.com/harmsk/atom-html-preview",
-  "_id": "atom-html-preview@0.1.3",
+  "homepage": "https://github.com/elusivedisc/elusive-html-preview",
+  "_id": "elusive-html-preview@0.0.0",
   "_shasum": "1b6a3d9636c2b2411e84e1c95ab2121ea54e153e",
   "_resolved": "file:../d-115111-11388-1t9q7wq/package.tgz",
   "_from": "../d-115111-11388-1t9q7wq/package.tgz",
