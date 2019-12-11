@@ -2,7 +2,7 @@
   "name": "elusive-html-preview",
   "author": "elusivedisc",
   "main": "./lib/atom-html-preview",
-  "version": "0.3.0",
+  "version": "0.0.0",
   "description": "A modification of Harmsk's preview tool for Atom Editor.",
   "repository": {
     "type": "git",
