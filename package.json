@@ -18,7 +18,7 @@
   "activationHooks": [
     "language-html:grammar-used"
   ],
-  "readme": "# Atom HTML Preview\n\nA live preview tool for Atom Editor.\n```\n\nToggle HTML Preview:\n\nPress `CTRL-P` in editor to open Preview.",
+  "readme": "# Modified Atom HTML Preview\n\nA live preview tool for Atom Editor.\n```\n\nToggle HTML Preview:\n\nPress `CTRL-P` in editor to open Preview.",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/harmsk/atom-html-preview/issues"
